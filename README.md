@@ -1,16 +1,9 @@
-# LabeX-Site-de-viagens-espaciais
-Projeto desenvolvido no módulo 3 do curso de Desenvolvimento Web Front End da Labenu.
+**LabeX - Site de viagens espaciais**
+Projeto desenvolvido no módulo 3 do curso de Desenvolvimento Web Front End da Labenu. Consiste em uma área pública, sem necessidade de login, o usuário poderá visualizar todas as viagens disponíveis e se desejar, se inscrever para alguma delas. A área privada mantem todos os dados administrativos, sendo possivel criar novas viagens e decidir se os candidatos serão ou não aprovados para a viagem.
 
-SURGE:
-https://stimulating-map.surge.sh/
+**SURGE**: https://stimulating-map.surge.sh/
 
-LOGIN PARA ACESSO A ÁREA PRIVADA:
-e-mail: brunacarvalholamarr@email.com
-senha: 123456 
-
-LabeX
 ------ O que funciona ----
-O projeto consiste em uma área destina a área pública, sem necessidade de login (Viagens) e uma área privada, apenas para usuários com permissão (Área do Admin)
 
 **Área pública:**
 O usuário terá acesso a todas as viagem interplanetária disponíveis no momento, será possivel obter as seguintes informações:
